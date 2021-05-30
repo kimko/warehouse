@@ -1,0 +1,2 @@
+notebook==2.4.7
+pandas==1.2.4
